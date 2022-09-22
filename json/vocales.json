@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "letra": "a", 
+        "pregunta": "planta comestible con tallos blancos y hojas verdes. también está en la ducha.",
+        "respuesta": "alcachofa",
+        "img":"alcachofa.jpg"
+    },
+
+    {
+        "id": 2,
+        "letra": "e", 
+        "pregunta": "mancharse un cristal con el vapor de agua.", 
+        "respuesta": "empañar",
+        "img":"empañar.jpg"
+    },
+
+    {
+        "id": 3,
+        "letra": "i", 
+        "pregunta": "alfiler que se abrocha quedando su punta dentro de un gancho.", 
+        "respuesta": "imperdible",
+        "img": "imperdible.jpg"
+        
+    },
+
+    {
+        "id": 4,
+        "letra": "o", 
+        "pregunta": "borde del mar, de un lago o de un río.", 
+        "respuesta": "orilla",
+        "img": "orilla.jpg"
+    },
+
+    {
+        "id": 5,
+        "letra": "u", 
+        "pregunta": "extender mantequilla sobre una rebanada de pan.", 
+        "respuesta": "untar",
+        "img": "untar.jpg"
+    }
+]
