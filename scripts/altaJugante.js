@@ -14,5 +14,5 @@ const btnJugador = document.getElementById("botonJugar")
 btnJugador.addEventListener("click", () => {
     jugadores = new Jugante((document.getElementById("nombre").value),0)
     localStorage.setItem("players", JSON.stringify(jugadores))
-    location.href = "../paginas/juego.html"
+    location.href = "./../paginas/juego.html"
 })
